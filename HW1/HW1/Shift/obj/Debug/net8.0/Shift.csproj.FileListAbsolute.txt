@@ -1,0 +1,15 @@
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Shift\bin\Debug\net8.0\Shift.exe
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Shift\bin\Debug\net8.0\Shift.deps.json
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Shift\bin\Debug\net8.0\Shift.runtimeconfig.json
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Shift\bin\Debug\net8.0\Shift.dll
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Shift\bin\Debug\net8.0\Shift.pdb
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Shift\obj\Debug\net8.0\Shift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Shift\obj\Debug\net8.0\Shift.AssemblyInfoInputs.cache
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Shift\obj\Debug\net8.0\Shift.AssemblyInfo.cs
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Shift\obj\Debug\net8.0\Shift.csproj.CoreCompileInputs.cache
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Shift\obj\Debug\net8.0\Shift.sourcelink.json
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Shift\obj\Debug\net8.0\Shift.dll
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Shift\obj\Debug\net8.0\refint\Shift.dll
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Shift\obj\Debug\net8.0\Shift.pdb
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Shift\obj\Debug\net8.0\Shift.genruntimeconfig.cache
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Shift\obj\Debug\net8.0\ref\Shift.dll
