@@ -1,0 +1,14 @@
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Factorial\bin\Debug\net8.0\Factorial.exe
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Factorial\bin\Debug\net8.0\Factorial.deps.json
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Factorial\bin\Debug\net8.0\Factorial.runtimeconfig.json
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Factorial\bin\Debug\net8.0\Factorial.dll
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Factorial\bin\Debug\net8.0\Factorial.pdb
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Factorial\obj\Debug\net8.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfo.cs
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Factorial\obj\Debug\net8.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Factorial\obj\Debug\net8.0\Factorial.dll
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Factorial\obj\Debug\net8.0\refint\Factorial.dll
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Factorial\obj\Debug\net8.0\Factorial.pdb
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Factorial\obj\Debug\net8.0\Factorial.genruntimeconfig.cache
+C:\Users\LocalAdmin\Desktop\NET\HW1\HW1\Factorial\obj\Debug\net8.0\ref\Factorial.dll
